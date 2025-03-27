@@ -1,4 +1,13 @@
-# TO---DO-List-Py-and-SQL-
-This is a To - do list created using the mysql_connector module from python..
+# PYTHON PROJECTS (Easy)
 
-`I AM AN IDIOT`
+**Python projects for academic purposes and also for learning how this language works.**
+
+#NOT_COMMERCIAL
+
+_Clean , readbale code and **explaination available** for the entire code in the readme file of each code_
+
+This is a simple project made just for academic purposes such as projects etc..
+
+
+
+~ Aaryan

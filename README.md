@@ -9,5 +9,23 @@ _Clean , readbale code and **explaination available** for the entire code in the
 This is a simple project made just for academic purposes such as projects etc..
 
 
+** WEATHER APPLICATION (ALONG WITH SOME OTER FUCNTIONS WHICH ARE TERMINAL BASED)
 
-~ Aaryan
+Dependencies :
+
+- geopy
+
+  'pip install geopy'
+
+- pytz
+
+  'pip install pytz'
+
+- timezonefinder
+
+  'pip install timezonefinder
+
+- requests
+
+  'pip install requests
+

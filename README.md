@@ -34,6 +34,10 @@ Dependencies :
 
   `pip install requests`
 
+  - some UI files
+ 
+    `Included in the .rar file`
+
 
 
 

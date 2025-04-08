@@ -13,7 +13,7 @@ This is a simple project made just for academic purposes such as projects etc..
 
 
 
-** 1. WEATHER APPLICATION (ALONG WITH SOME OTER FUCNTIONS WHICH ARE TERMINAL BASED)**
+****1. WEATHER APPLICATION (ALONG WITH SOME OTER FUCNTIONS WHICH ARE TERMINAL BASED)****
 
 
 Dependencies :
@@ -35,7 +35,7 @@ Dependencies :
   `pip install requests`
 
 
- C O D E
+
 
  ```python
 
@@ -469,7 +469,11 @@ if user_choice==4:
 
 
 
-*2. To-Do List using python and mysql connectivity*
+
+
+
+
+****2. To-Do List using python and mysql connectivity****
 
 
 Dependencies :
@@ -479,7 +483,8 @@ Dependencies :
   `pip install mysql-connector-python`
 
 
-C O D E
+
+
 
 ```python
 
